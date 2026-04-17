@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JoeyWheelerSNHUMobileDev</string>
+    <string name="say_hello_button_text">Say Hello</string>
+    <string name="Default_Name_Text">Name</string>
+</resources>
